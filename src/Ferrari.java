@@ -8,6 +8,7 @@ public class Ferrari implements Carro, ItemCaro { // Para que Ferrari tenha o co
 													// Contudo, como o método abrirPorta() foi implementado na interface carro, eu faço implements Carro.
 														// Porque a interface Carro é uma sub-interface da super-interface Automovel.
 															// OU seja, ao implementar de Carro, o seu método abrirPorta() eu também herdo os métodos da super-interface Automovel
+													// Ferrari tanto é um carro(interface) quanto é um itemCaro(interface). Nesse caso, você pode implementar quantas interfaces quiser.
 
 	@Override
 	public void virarEsquerda() {
@@ -33,7 +34,7 @@ public class Ferrari implements Carro, ItemCaro { // Para que Ferrari tenha o co
 																	// Ou da hierarquia de interfaces que ela implementa. Métodos abrir porta também precisa ser aberto
 
 	@Override
-	public double getPreco() {
+	public double getPreco() { 									// A classe implementa o método getPreco() da interface ItemCaro.
 		return 1000000;
 	}
 }
