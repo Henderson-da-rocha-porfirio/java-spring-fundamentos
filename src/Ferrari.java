@@ -5,6 +5,9 @@ public class Ferrari implements Carro, ItemCaro { // Para que Ferrari tenha o co
 															// Extends vs Implements =>
 																// Extends = herdando de uma super classe.
 																	// Implements = Implementando uma interface.
+													// Contudo, como o método abrirPorta() foi implementado na interface carro, eu faço implements Carro.
+														// Porque a interface Carro é uma sub-interface da super-interface Automovel.
+															// OU seja, ao implementar de Carro, o seu método abrirPorta() eu também herdo os métodos da super-interface Automovel
 
 	@Override
 	public void virarEsquerda() {
@@ -26,7 +29,8 @@ public class Ferrari implements Carro, ItemCaro { // Para que Ferrari tenha o co
 	@Override
 	public void abrirPorta() {
 		System.out.println("Ferrari abriu a porta");
-	}
+	} 															// A classe sempre tem que implementar todos os métodos da interface que ela implementa.
+																	// Ou da hierarquia de interfaces que ela implementa. Métodos abrir porta também precisa ser aberto
 
 	@Override
 	public double getPreco() {
