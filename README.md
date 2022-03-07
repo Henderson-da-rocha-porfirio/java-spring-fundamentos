@@ -5,3 +5,4 @@
 #### 3. Ao eliminar essa dependência da implementação, você pode trocar a implementação, sem precisar mexer no resto do sistema.
 #### 4. O uso de interfaces é super importante na expansão do sistema e/ou até mesmo em manutenções futuras.
 #### 5. Quando o seu método referencia apenas a interface e não as implementações dessa interface, o método ficará protegido de alterações que posteriormente sejam feitas.
+#### 6. Ao usar Interfaces, isto é, uma classe implementando os métodos de uma interface, você não usa extends, lembre-se de usar a palavra-chave implements. Mas se uma interface herdar os métodos de outra interface, usar o extends (herança).
