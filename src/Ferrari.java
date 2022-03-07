@@ -8,12 +8,12 @@ public class Ferrari implements Carro, ItemCaro { // Para que Ferrari tenha o co
 
 	@Override
 	public void virarEsquerda() {
-		System.out.println("Ferrari virou � esquerda");
+		System.out.println("Ferrari virou à esquerda");
 	}
 
 	@Override
 	public void virarDireita() {
-		System.out.println("Ferrari virou � direita");
+		System.out.println("Ferrari virou à direita");
 	}
 
 	@Override
