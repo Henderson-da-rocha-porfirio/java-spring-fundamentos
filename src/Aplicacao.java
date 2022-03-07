@@ -15,9 +15,9 @@ public class Aplicacao {
 											// Não houve necessidade de mexer no método "ir" da classe Rota. Ele continua interagindo com o Automovel genérico.
 												// O que vai ser executado é o que foi passado para esse método "ir" instanciado na Ferrari.
 		
-		AnelBrilhante a = new AnelBrilhante();
+		AnelBrilhante a = new AnelBrilhante(); // Instanciar um AnelBrilhante
 		
-		Vendedor v = new Vendedor();
+		Vendedor v = new Vendedor(); // Instanciar um Vendedor
 		v.mostrarPreco(f);
 		v.mostrarPreco(a);
 	}
