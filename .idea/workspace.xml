@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="41b268b6-e448-496b-8cee-3b98fe2291a4" name="Changes" comment="#commit _ 1">
+      <change beforePath="$PROJECT_DIR$/bin/Aplicacao.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Aplicacao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Cogumelo.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Cogumelo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Diamante.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Diamante.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Item.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Item.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Maca.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Maca.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/Moeda.class" beforeDir="false" afterPath="$PROJECT_DIR$/bin/Moeda.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Aplicacao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Aplicacao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Item.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Item.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Maca.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Maca.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Example_Classes_Abstratas" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="recentBranches">
+      <RecentBranches>
+        <option name="branchesForRepo">
+          <list>
+            <RecentBranchesForRepo>
+              <option name="branches">
+                <list>
+                  <RecentBranch>
+                    <option name="branchName" value="ClassesAbstratas_Examples" />
+                    <option name="lastUsedInstant" value="1646673714" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="Example_Classes_Abstratas" />
+                    <option name="lastUsedInstant" value="1646673628" />
+                  </RecentBranch>
+                  <RecentBranch>
+                    <option name="branchName" value="master" />
+                    <option name="lastUsedInstant" value="1646673627" />
+                  </RecentBranch>
+                </list>
+              </option>
+              <option name="repositoryRootUrl" value="file://$PROJECT_DIR$" />
+            </RecentBranchesForRepo>
+          </list>
+        </option>
+      </RecentBranches>
+    </option>
+  </component>
+  <component name="ProjectId" id="264CCo8WtV1KhtrUZMMtN0bTXrg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../DESIGN PATTERNS/Singleton/Singleton" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Aplicacao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="C:/Program Files/Eclipse Adoptium/jdk-11.0.13.8-hotspot" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="Aplicacao" />
+      <module name="ClassesAbstratas" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Aplicacao" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="41b268b6-e448-496b-8cee-3b98fe2291a4" name="Changes" comment="" />
+      <created>1646673347081</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646673347081</updated>
+    </task>
+    <task id="LOCAL-00001" summary="#commit _ 1">
+      <created>1646673542651</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1646673542651</updated>
+    </task>
+    <task id="LOCAL-00002" summary="#commit _ 1">
+      <created>1646673648105</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1646673648105</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="#commit _ 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="#commit _ 1" />
+  </component>
+</project>
