@@ -13,6 +13,6 @@ public class Aplicacao {
 		m.pegar();
 		
 		Item maca = new Maca(); // Variavel maca do tipo Item. Poderia também ser: Maca maca = new Maca() ... essa situacao acontece devido ao casting implicito.
-		maca.pegar();
+		maca.pegar(); //testando commit
 	}
 }
