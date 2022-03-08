@@ -5,6 +5,6 @@ public class Aplicacao {
 		Cidade c = new Cidade();
 		
 		String nome = c.getEstado().getPais().getNome();
-		System.out.println(nome);
+		System.out.println(nome)     ;
 	}
 }
