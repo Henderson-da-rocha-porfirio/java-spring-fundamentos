@@ -1,0 +1,1 @@
+# Tratando Excecões com Checked
