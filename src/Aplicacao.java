@@ -10,7 +10,7 @@ public class Aplicacao {
 		
 		} catch (BancoException e) {
 			System.out.println("Ocorreu um erro: " + e.getMessage());
-			System.out.println(e.getCause())   ;
+			System.out.println(e.getCause());
 		}
 	}
 }
