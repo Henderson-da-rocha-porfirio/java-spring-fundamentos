@@ -1,7 +1,6 @@
 
 public class Carro extends Veiculo {
 
-	private boolean quatroPortas;
 
 	public boolean isQuatroPortas() {
 		return quatroPortas;
