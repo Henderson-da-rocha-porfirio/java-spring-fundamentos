@@ -18,7 +18,7 @@ public class Aplicacao {
 		
 		//short x = (short) 100000; Aqui não compila.
 		//System.out.println(x);
-														// O casting explícito só funciona quando o valor da variável cabe no armazenamento de destino.
+														   // O casting explícito só funciona quando o valor da variável cabe no armazenamento de destino.
 		//byte x = (byte) 130; Aqui não compila também.
 		//System.out.println(x);
 	}
