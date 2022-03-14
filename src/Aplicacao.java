@@ -4,14 +4,16 @@ public class Aplicacao {
 	public static void main(String[] args) {
 		
 		Handler h = new Handler();
-		
+
+		//Exemplo com java 4:
 		//Integer i = Integer.valueOf(10);
 		//h.setObj(i);
 		
 		//Integer i2 = (Integer) h.getObj();
 		//int i3 = i2.intValue();
 		//System.out.println(i3);
-		
+
+		// Exemplo com Java 11:
 		//int i = 10;
 		//h.setObj(i);
 		
