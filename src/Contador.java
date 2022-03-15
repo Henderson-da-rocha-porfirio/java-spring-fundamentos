@@ -1,8 +1,8 @@
 
-public class Contador extends Thread {
+public class Contador extends Thread { // Herdando de thread
 
 	@Override
-	public void run() {
+	public void run() { // corpo da thread
 		for (int i = 0; i < 10; i++) {
 			System.out.println("=> " + i);
 			try {
