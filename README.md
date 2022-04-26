@@ -1,5 +1,2 @@
-#Injeção de Dependência
-### É uma forma de Inversão de Controle (IOC):
-````
-Injeta uma determinada dependência na instanciação de uma classe(vide Main).
-````
+#Polimorfismo na prática
+### Verificar as Services para ver o exemplo.
