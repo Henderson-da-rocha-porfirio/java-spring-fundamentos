@@ -1,6 +1,11 @@
-# Classes Wrappers e Tipos primitivos: Trabalhando com o Autoboxing (Embrulhamento automático)
-### 1. Faz conversão de Classe Wrapper para Tipos Primitivos, e vice-versa, de forma automática.
-### 2. Autoboxing não muda as regras do Java.
-### 3. Realiza processo Imboxing: Embrulhamento automático.
-### 4. Funciona a partir do Java 9.
-### 5. Autoboxing elimina a necessidade de se trabalhar com valueOf().
+# Classes Wrappers
+|   Tipo Primitivo   |  Classes Wrapper  |    Argumentos do construtor    |
+| :---         |     :---:      |          ---: |
+| boolean  | Boolean     | booleanou String    |
+| byte     | Byte       | byte ou String      |
+| char  | Character     | booleanou String    |
+| int     | Integer       | int or String      |
+| float  | Float     | float, double ou String    |
+| double     | Double    | double ou String      |
+| long  | Long     | long ou String    |
+| short    | Short       | short ou String     |
