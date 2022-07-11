@@ -1,3 +1,11 @@
-# Casting de Tipos Primitivos
-### Alteração de tipo de dado.
-#### 1. Casting Implícito. O próprio compilador faz o casting para você.
+# Tipos Primitivos
+|   Tipo Primitivo   |  Classes Wrapper  |    Argumentos do construtor    |
+| :---         |     :---:      |          ---: |
+| boolean  | Boolean     | booleanou String    |
+| byte     | Byte       | byte ou String      |
+| char  | Character     | booleanou String    |
+| int     | Integer       | int or String      |
+| float  | Float     | float, double ou String    |
+| double     | Double    | double ou String      |
+| long  | Long     | long ou String    |
+| short    | Short       | short ou String     |
