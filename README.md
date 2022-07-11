@@ -9,3 +9,7 @@
 | double     | Double    | double ou String      |
 | long  | Long     | long ou String    |
 | short    | Short       | short ou String     |
+
+````
+Se você quer saber a diferença entre double e long (os tipos primitivos), basta lembrar que o double representa valores que podem ser inteiros ou fracionários (exemplo: 4.0; 3.14) e o long representa apenas valores inteiros (exemplo: 10).
+````
